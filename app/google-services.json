@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "866274598748",
+    "project_id": "color-list-app",
+    "storage_bucket": "color-list-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866274598748:android:22ba7c8778703312216b99",
+        "android_client_info": {
+          "package_name": "com.example.colorlistapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUXlbjc9iV9-fECUot_7IYfUgWNJ4NYQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866274598748:android:4ad6b6176746deec216b99",
+        "android_client_info": {
+          "package_name": "com.ck.colorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUXlbjc9iV9-fECUot_7IYfUgWNJ4NYQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
